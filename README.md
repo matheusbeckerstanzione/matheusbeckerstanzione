@@ -12,6 +12,9 @@
 
 <p align="left">⚽ Ex jogador de futebol<br>🧑‍💻 Apaixonado por programação amo trabalhar com a linguagem java<br>📘 Estudo no Senai de São Caetano<br>👾 Tenho curso de IA-900<br>🦾 Gosto de ir para a academia <br>📘 Futuro engenheiro de software</p>
 
+ <img height="180px" src="https://github-readme-stats.vercel.app/api?username=matheusbeckerstanzione&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbeckerstanzione&layout=compact&langs_count=7&theme=dark"/>
+
 ###
 
 <h2 align="left">Tecnologia</h2>
