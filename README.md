@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓 Estudante de Desenvolvimento de Sistemas Full Stack<br>Atualmente cursando o 2º semestre no SENAI de Informática, com foco em tecnologias modernas de desenvolvimento web e mobile, tanto no front-end quanto no back-end.<br><br>💻 Certificações:<br><br>IA-900 – Fundamentos de Inteligência Artificial (SENAI)<br><br>Curso Profissional de Back-End com Java<br><br>🔧 Habilidades em desenvolvimento:<br><br>Programação orientada a objetos (Java)<br><br>Fundamentos de inteligência artificial<br><br>Desenvolvimento web (HTML, CSS, JavaScript)<br><br>Bancos de dados relacionais<br><br>Boas práticas de versionamento com Git</p>
+<p align="center">🎓 Estudante de Desenvolvimento de Sistemas Full Stack<br>Atualmente cursando o 2º semestre no SENAI de Informática, com foco em tecnologias modernas de desenvolvimento web e mobile, tanto no front-end quanto no back-end.<br><br>💻 Certificações:<br><br>IA-900 – Fundamentos de Inteligência Artificial (SENAI)<br><br>Curso Profissional de Back-End com Java<br><br>🔧 Habilidades em desenvolvimento:<br><br>Programação orientada a objetos <br><br>Fundamentos de inteligência artificial<br><br>Desenvolvimento web (HTML, CSS, JavaScript)<br><br>Bancos de dados relacionais<br><br>Boas práticas de versionamento com Git</p>
 
 ###
 
