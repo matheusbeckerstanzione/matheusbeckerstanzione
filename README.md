@@ -26,8 +26,6 @@
 ###
 
 <div align="left">
- 
-            <i class="devicon-azure-plain-wordmark colored"></i>
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
